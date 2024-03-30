@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.arrow {
+  height: 10px;
+  outline: none;
+  cursor: pointer;
+}
+
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
